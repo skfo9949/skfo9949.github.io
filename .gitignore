@@ -10,3 +10,6 @@ Thumbs.db
 .rvmrc
 
 *.lock
+.idea/inspectionProfiles/
+.idea/preferred-vcs.xml
+.idea/workspace.xml
