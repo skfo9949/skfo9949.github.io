@@ -11,7 +11,7 @@ comments : false
 이 경우에 html 태그의  앞부분에 스크립트 태그를 배치하게되면(특히 \<head> 내에) 페이지 렌더링이 시작되기도 전에 스크립트를 다운로드하고 실행하는데 시간을 할애하게된다.
 이는 사용자 입장에서 봤을때, 스크립트가 다운되는 동안 빈페이지를 보고 있어야 한다.<br>
 이를 해결하기 위해서 HTML5에서 async 속성과 defer 속성이 추가되었다.
-![Smithsonian Image](/postImg/nomal_excution.png)
+![Smithsonian Image](/postImg/normal.png)
 ## async
 async 속성은 브라우저에 스크립트 파일이 비동기적으로 실행될 수 있음을 나타내기 위해 사용한다.
 HTML 파싱과 동시에 스크립트 다운로드가 진행되며, 다운로드가 완료되는 순간 HTML 파싱을 잠시 멈춘 후 스크립트를 실행한다.<br>
