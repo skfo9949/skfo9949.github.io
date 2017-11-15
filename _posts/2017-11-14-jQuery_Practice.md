@@ -9,6 +9,7 @@ comments : false
 ## 개요
 * jQuery를 이용하여 선택된 checkbox의 value를 textarea 영역에 출력한다.
 ## 소스코드
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
