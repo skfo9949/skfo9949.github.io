@@ -1,7 +1,7 @@
 ---
 title: "script의 async & defer 속성"
 description: ""
-categories: javascript
+categories: javascript&jQuery
 tags: 
 date: 2017-11-12
 comments : false
@@ -27,5 +27,5 @@ defer속성은 HTML 구문 분석이 실행되는 동안 파일을 다운로드 
 ```javascript
 <script defer src="https://maps.googleapis.com"></script>
 ```
-
+                                                                                                                                     
 
