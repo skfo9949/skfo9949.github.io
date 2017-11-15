@@ -9,7 +9,7 @@ comments : false
 ## 개요
 * jQuery를 이용하여 선택된 checkbox의 value를 textarea 영역에 출력한다.
 ## 소스코드
-```javascript
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -70,6 +70,6 @@ comments : false
 </html>
 ```
 ## 실행화면
-<iframe src="/src/jQueryEx">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+<iframe src="/src/jQueryEx" width="650px" height="500px">
+           <p>Your browser does not support iframes.</p>
+ </iframe>
